@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec83b472-434f-42cb-8207-8dc3b36fa3fb" name="Changes" comment="" />
+    <list default="true" id="8a91a301-8135-4f06-9424-a9253c6d8b54" name="Changes" comment="ass_riv_7 gui test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,32 +13,311 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verifica e Convcalida del Software" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verifica e Convcalida del Software" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop_ass_4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="develop_ass_4" />
+                    <option name="lastUsedInstant" value="1713853094" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="backup" />
+                    <option name="lastUsedInstant" value="1713853022" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1710229010" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1710228977" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
-  <component name="ProjectId" id="2fAhRMQHuvd8gkE5Sb3ADxUElhI" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\stefa\Coding\php\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2d0955lBSsc3occBGr132UcQ4wh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/stefa/Downloads/poste master/BE",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build Verifica e Convcalida del Software.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.GUITest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.GUITest.testController.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testAlwaysTrue.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testAss4Equilateral.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorInvalidInput.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorNegativeOrZeroSide.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorNegativeSide.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorNotATriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorSideTooLong.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testConstructorWithNoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testDescribeEquilateral.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testEquilateraWithZeroLenght.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testEquilateraWithZeroLength.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testEquilateral.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testInvalidTriangle1.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testIsosceles.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testIsoscelesAC.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testIsoscelesBC.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testNegativeSide.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testNegativeSides.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testNullTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testScalene.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TriangleImplTest.testTooLongSide.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [MyTestSuite].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [filtersgff].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [help].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [integrationTest].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [jacocoLogTestCoverage].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [jacocoTestCoverageVerification].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [jacocoTestReport].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [test1].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [testFilters].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [testMyFilters].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [testTags].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [testValidConstructor].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Verifica e Convcalida del Software [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop__ass__4&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/stefa/Documents/GitLab/Unimi/Verifica e Convcalida del Software/src/main/java/it/unimi/di/vec/ass1/ass1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.unimi.di.vec.ass1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Documents\GitLab\Unimi\Verifica e Convcalida del Software\src\main\java\it\unimi\di\vec\ass1\ass1" />
+      <recent name="C:\Users\stefa\Documents\GitLab\Unimi\Verifica e Convcalida del Software\src\main\java\it\unimi\di\vec\ass1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.GUITest">
+    <configuration name="GUITest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.vec.ass7.GUITest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GUITest.testController" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.vec.ass7.GUITest.testController&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Verifica e Convcalida del Software [jacocoTestCoverageVerification]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jacocoTestCoverageVerification" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Verifica e Convcalida del Software [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jacocoTestReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Verifica e Convcalida del Software [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GUITest" />
+        <item itemvalue="Gradle.GUITest.testController" />
+        <item itemvalue="Gradle.Verifica e Convcalida del Software [test]" />
+        <item itemvalue="Gradle.Verifica e Convcalida del Software [jacocoTestReport]" />
+        <item itemvalue="Gradle.Verifica e Convcalida del Software [jacocoTestCoverageVerification]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,16 +329,232 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec83b472-434f-42cb-8207-8dc3b36fa3fb" name="Changes" comment="" />
-      <created>1713249781415</created>
+      <changelist id="8a91a301-8135-4f06-9424-a9253c6d8b54" name="Changes" comment="" />
+      <created>1709133944737</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713249781415</updated>
-      <workItem from="1713249782508" duration="97000" />
+      <updated>1709133944737</updated>
+      <workItem from="1709133946020" duration="3140000" />
+      <workItem from="1709137124334" duration="3621000" />
+      <workItem from="1709722326227" duration="1361000" />
+      <workItem from="1709732377466" duration="3850000" />
+      <workItem from="1709756680521" duration="12639000" />
+      <workItem from="1709769572388" duration="87000" />
+      <workItem from="1709795319591" duration="604000" />
+      <workItem from="1709817655303" duration="171000" />
+      <workItem from="1710225724158" duration="4128000" />
+      <workItem from="1710238266575" duration="2455000" />
+      <workItem from="1710248943356" duration="77000" />
+      <workItem from="1710822467237" duration="10508000" />
+      <workItem from="1710833249383" duration="440000" />
+      <workItem from="1710833702604" duration="227000" />
+      <workItem from="1713220990044" duration="7266000" />
+      <workItem from="1713257520955" duration="1441000" />
+      <workItem from="1713269408469" duration="9000" />
+      <workItem from="1713539960460" duration="37000" />
+      <workItem from="1713848113333" duration="10501000" />
+      <workItem from="1713862306293" duration="737000" />
+      <workItem from="1713878968581" duration="589000" />
+      <workItem from="1714651963528" duration="580000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: Triangle describer implemented">
+      <option name="closed" value="true" />
+      <created>1709138652980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709138652980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test: jUnit test cases">
+      <option name="closed" value="true" />
+      <created>1709138693157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709138693157</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor: jUnit test naming">
+      <option name="closed" value="true" />
+      <created>1709139046823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139046823</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test: jUnit before and after output message">
+      <option name="closed" value="true" />
+      <created>1709139588485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139588485</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ass_2">
+      <option name="closed" value="true" />
+      <created>1709760330342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709760330343</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ass_3">
+      <option name="closed" value="true" />
+      <created>1709769271523</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709769271523</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ass_riv_3">
+      <option name="closed" value="true" />
+      <created>1710228943344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710228943344</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ass_4">
+      <option name="closed" value="true" />
+      <created>1710229697684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710229697684</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ass_4">
+      <option name="closed" value="true" />
+      <created>1710229803687</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710229803687</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ass_5">
+      <option name="closed" value="true" />
+      <created>1710832357248</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710832357248</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ass_5 plugin">
+      <option name="closed" value="true" />
+      <created>1710833052309</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710833052309</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ass_riv_5">
+      <option name="closed" value="true" />
+      <created>1713249569565</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713249569565</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ass_6 jacoco">
+      <option name="closed" value="true" />
+      <created>1713254400725</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713254400725</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ass_6 jacoco rules">
+      <option name="closed" value="true" />
+      <created>1713255411992</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713255411992</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ass_7 &#10;&#10;only runner">
+      <option name="closed" value="true" />
+      <created>1713852860004</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713852860004</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ass_7 &#10;&#10;only yml">
+      <option name="closed" value="true" />
+      <created>1713853158339</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713853158339</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix&#10;&#10;only yml">
+      <option name="closed" value="true" />
+      <created>1713853416670</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713853416670</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ass_riv_7 gui test">
+      <option name="closed" value="true" />
+      <created>1713862769904</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713862769904</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop_ass_4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Triangle describer implemented" />
+    <MESSAGE value="test: jUnit test cases" />
+    <MESSAGE value="refactor: jUnit test naming" />
+    <MESSAGE value="test: jUnit before and after output message" />
+    <MESSAGE value="ass_2" />
+    <MESSAGE value="ass_3" />
+    <MESSAGE value="ass_riv_3" />
+    <MESSAGE value="ass_4" />
+    <MESSAGE value="ass_5" />
+    <MESSAGE value="ass_5 plugin" />
+    <MESSAGE value="ass_riv_5" />
+    <MESSAGE value="ass_6 jacoco" />
+    <MESSAGE value="ass_6 jacoco rules" />
+    <MESSAGE value="ass_7 &#10;&#10;only runner" />
+    <MESSAGE value="ass_7 &#10;&#10;only yml" />
+    <MESSAGE value="fix&#10;&#10;only yml" />
+    <MESSAGE value="ass_riv_7 gui test" />
+    <option name="LAST_COMMIT_MESSAGE" value="ass_riv_7 gui test" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Verifica_e_Convcalida_del_Software$TriangleImplTest.ic" NAME="TriangleImplTest Coverage Results" MODIFIED="1710227630928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

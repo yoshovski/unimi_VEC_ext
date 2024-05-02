@@ -1,0 +1,107 @@
+plugins {
+    id 'java'
+    id 'jacoco'
+    id 'jvm-test-suite'
+    id("com.waftex.assertj-generator") version "1.1.4"
+    id("org.barfuin.gradle.jacocolog") version "3.1.0"
+    //id("org.assertj.generator") version "1.1.1"
+}
+
+repositories {
+    mavenCentral()
+}
+
+//assertjGenerator {
+//    classOrPackageNames = ['it.unimi.di.vec.ass1']
+//}
+
+dependencies {
+    testImplementation 'junit:junit:4.13.2'
+    testRuntimeOnly 'org.junit.vintage:junit-vintage-engine:5.10.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.1'
+    testImplementation 'org.assertj:assertj-core:3.25.2'
+    testImplementation 'com.github.stefanbirkner:system-lambda:1.2.1'
+    testImplementation 'org.mockito:mockito-core:2.28.2'
+    testImplementation 'org.mockito:mockito-junit-jupiter:2.28.2'
+}
+
+testing {
+    suites {
+        test {
+            useJUnitJupiter("5.10.1")
+        }
+        integrationTest(JvmTestSuite) {
+            dependencies {
+                implementation project()
+            }
+        }
+    }
+}
+
+// tag tests
+tasks.register('testTags', Test) {
+    testLogging {
+        exceptionFormat = 'full'
+        showStandardStreams = true
+        events "passed", "skipped", "failed"
+    }
+    useJUnitPlatform {
+        includeTags 'constructor_tests', 'describe_tests'
+    }
+}
+
+// filters test
+tasks.register('testFilters', Test) {
+    group = 'verification'
+    filter {
+        includeTestsMatching "*Constructor*"
+    }
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
+
+jacoco {
+    toolVersion = "0.8.11"
+    reportsDirectory = layout.buildDirectory.dir('customJacocoReportDir')
+}
+
+
+test {
+    finalizedBy(jacocoTestReport)
+}
+
+jacocoTestReport {
+    dependsOn test
+}
+
+jacocoTestCoverageVerification {
+    violationRules {
+        rule {
+            limit {
+                minimum = 0.1
+            }
+        }
+
+        rule {
+            enabled = true
+            element = 'CLASS'
+            includes = ['it.unimi.di.vec.ass1.*']
+
+            limit {
+                counter = 'LINE'
+                value = 'TOTALCOUNT'
+                maximum = 30.0
+            }
+        }
+    }
+}
+
+jacocoLogTestCoverage {
+    counters {
+        showComplexityCoverage = false
+        showClassCoverage = false
+        showLineCoverage = false
+    }
+}
